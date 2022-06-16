@@ -12,6 +12,8 @@ abstract interface MethodReferences {
 	}
 }
 
+//This comment is added to test git merge command
+
 class Main{
 	public static void main(String[] args) {
 		//creating list
